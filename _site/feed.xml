@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dejan Djokic</title>
+    <description>Dejan's data viz blog.</description>
+    <link>https://usf-cs360-spring2020.github.io/project-djokicx</link>
+    <atom:link href="https://usf-cs360-spring2020.github.io/project-djokicx/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Prototype</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../images/proto.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;
+    &lt;a href=&quot;https://data.sfgov.org/Housing-and-Buildings/Map-of-Buyout-Agreements/aa2m-ehxd&quot;&gt;https://data.sfgov.org/Housing-and-Buildings/Map-of-Buyout-Agreements/aa2m-ehxd&lt;/a&gt;
+&lt;figcaption&gt;
+&lt;/figcaption&gt;&lt;/figcaption&gt;
+</description>
+        <pubDate>Tue, 12 Feb 2019 00:00:00 -0700</pubDate>
+        <link>https://usf-cs360-spring2020.github.io/project-djokicx/posts/proto</link>
+        <guid isPermaLink="true">https://usf-cs360-spring2020.github.io/project-djokicx/posts/proto</guid>
+      </item>
+    
+      <item>
+        <title>Data</title>
+        <description>&lt;h2 id=&quot;dataset&quot;&gt;Dataset&lt;/h2&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;data.sfgov.org&quot;&gt;data.sfgov.org&lt;/a&gt;&lt;br /&gt;
+Publishing Department: Housing and Buildings&lt;br /&gt;
+Rows: &lt;strong&gt;4,373&lt;/strong&gt;&lt;br /&gt;
+Columns: &lt;strong&gt;29&lt;/strong&gt;&lt;br /&gt;
+License: Public Domain Dedication and License v1.0 (PDDL)&lt;br /&gt;
+Accessed: &lt;em&gt;April 13, 2020&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;brief-overview&quot;&gt;Brief Overview&lt;/h2&gt;
+
+&lt;p&gt;Columns of interest:&lt;/p&gt;
+
+&lt;p&gt;Buyout Agreement Date &lt;br /&gt;
+Zip Code &lt;br /&gt;
+Number of Tenants &lt;br /&gt;
+Buyout Amount &lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Longitude&lt;br /&gt;
+Latitude&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Feb 2019 00:00:00 -0700</pubDate>
+        <link>https://usf-cs360-spring2020.github.io/project-djokicx/posts/data</link>
+        <guid isPermaLink="true">https://usf-cs360-spring2020.github.io/project-djokicx/posts/data</guid>
+      </item>
+    
+  </channel>
+</rss>
