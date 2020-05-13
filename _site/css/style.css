@@ -1,0 +1,83 @@
+body {
+    background-color: white;
+  
+    font-family: sans-serif;
+  }
+  
+#tooltip {
+    font-weight: 600;
+    text-shadow: 0px 0px 2px white;
+
+    fill: black;
+    stroke: none;
+}
+  
+path.land {
+    fill-opacity: 0.8;
+    stroke: none;
+    
+}
+  
+path.neighborhood {
+    fill: none;
+    stroke: white;
+    stroke-width: 0.5px;
+    pointer-events: none;
+}
+  
+  
+path.active {
+    stroke: green !important;
+    stroke-width: 1px !important;
+}
+
+.active {
+    stroke: green !important;
+    fill-opacity: 1 !important;
+}
+  
+circle.symbol {
+    fill-opacity: 0.5;
+
+    stroke: white;
+}
+  
+a:link, a:visited {
+    color: #444444;
+}
+  
+a:hover, a:active {
+    color: red;
+}
+  
+th {
+    text-align: left;
+}
+
+#vis img {
+    border: 1px solid white;
+}
+
+table#info {
+    padding: 10px !important;
+    border-radius: 5px;
+    font-size: 9pt;
+}
+
+table,
+#tooltip {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+    background-color: rgba(255, 255, 255, 0.85);
+    font-size: 9pt;
+}
+
+.legend {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 9pt;
+}
+
+text {
+    font-size: 9pt;
+}
+  

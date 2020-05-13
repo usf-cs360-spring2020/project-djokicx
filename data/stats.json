@@ -1,0 +1,1478 @@
+[
+    {
+        "total_amount": 700158,
+        "count": 60,
+        "full_info_count": 21,
+        "data": [
+            {
+                "year": 2015,
+                "count": 1,
+                "amount": 30000
+            },
+            {
+                "year": 2016,
+                "count": 3,
+                "amount": 189640
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 5,
+                "amount": 169456
+            },
+            {
+                "year": 2019,
+                "count": 12,
+                "amount": 311062
+            }
+        ],
+        "nhood": "Portola",
+        "amount_per_capita": 44.67,
+        "average_buyout_amount": 33341,
+        "population": 15674
+    },
+    {
+        "total_amount": 9589094,
+        "count": 555,
+        "full_info_count": 180,
+        "data": [
+            {
+                "year": 2015,
+                "count": 27,
+                "amount": 1484337
+            },
+            {
+                "year": 2016,
+                "count": 36,
+                "amount": 1597330
+            },
+            {
+                "year": 2017,
+                "count": 28,
+                "amount": 1854229
+            },
+            {
+                "year": 2018,
+                "count": 49,
+                "amount": 2219278
+            },
+            {
+                "year": 2019,
+                "count": 41,
+                "amount": 2428920
+            }
+        ],
+        "nhood": "Mission",
+        "amount_per_capita": 167.35,
+        "average_buyout_amount": 53273,
+        "population": 57298
+    },
+    {
+        "total_amount": 1136095,
+        "count": 95,
+        "full_info_count": 36,
+        "data": [
+            {
+                "year": 2015,
+                "count": 3,
+                "amount": 140000
+            },
+            {
+                "year": 2016,
+                "count": 5,
+                "amount": 88650
+            },
+            {
+                "year": 2017,
+                "count": 6,
+                "amount": 82200
+            },
+            {
+                "year": 2018,
+                "count": 14,
+                "amount": 528807
+            },
+            {
+                "year": 2019,
+                "count": 8,
+                "amount": 296438
+            }
+        ],
+        "nhood": "Outer Mission",
+        "amount_per_capita": 49.73,
+        "average_buyout_amount": 31558,
+        "population": 22845
+    },
+    {
+        "total_amount": 1951588,
+        "count": 146,
+        "full_info_count": 51,
+        "data": [
+            {
+                "year": 2015,
+                "count": 4,
+                "amount": 143376
+            },
+            {
+                "year": 2016,
+                "count": 8,
+                "amount": 428989
+            },
+            {
+                "year": 2017,
+                "count": 16,
+                "amount": 435020
+            },
+            {
+                "year": 2018,
+                "count": 12,
+                "amount": 555825
+            },
+            {
+                "year": 2019,
+                "count": 12,
+                "amount": 388379
+            }
+        ],
+        "nhood": "Inner Richmond",
+        "amount_per_capita": 94.06,
+        "average_buyout_amount": 38266,
+        "population": 20749
+    },
+    {
+        "total_amount": 2947333,
+        "count": 192,
+        "full_info_count": 61,
+        "data": [
+            {
+                "year": 2015,
+                "count": 10,
+                "amount": 646749
+            },
+            {
+                "year": 2016,
+                "count": 15,
+                "amount": 549100
+            },
+            {
+                "year": 2017,
+                "count": 12,
+                "amount": 650899
+            },
+            {
+                "year": 2018,
+                "count": 14,
+                "amount": 656290
+            },
+            {
+                "year": 2019,
+                "count": 12,
+                "amount": 444296
+            }
+        ],
+        "nhood": "Marina",
+        "amount_per_capita": 129.2,
+        "average_buyout_amount": 48317,
+        "population": 22813
+    },
+    {
+        "total_amount": 1345629,
+        "count": 137,
+        "full_info_count": 58,
+        "data": [
+            {
+                "year": 2015,
+                "count": 8,
+                "amount": 171750
+            },
+            {
+                "year": 2016,
+                "count": 10,
+                "amount": 210547
+            },
+            {
+                "year": 2017,
+                "count": 21,
+                "amount": 572139
+            },
+            {
+                "year": 2018,
+                "count": 9,
+                "amount": 181069
+            },
+            {
+                "year": 2019,
+                "count": 10,
+                "amount": 210124
+            }
+        ],
+        "nhood": "Excelsior",
+        "amount_per_capita": 34.8,
+        "average_buyout_amount": 23200,
+        "population": 38666
+    },
+    {
+        "total_amount": 1977914,
+        "count": 177,
+        "full_info_count": 54,
+        "data": [
+            {
+                "year": 2015,
+                "count": 7,
+                "amount": 272358
+            },
+            {
+                "year": 2016,
+                "count": 15,
+                "amount": 387670
+            },
+            {
+                "year": 2017,
+                "count": 12,
+                "amount": 458399
+            },
+            {
+                "year": 2018,
+                "count": 10,
+                "amount": 243799
+            },
+            {
+                "year": 2019,
+                "count": 12,
+                "amount": 615688
+            }
+        ],
+        "nhood": "Bernal Heights",
+        "amount_per_capita": 84.56,
+        "average_buyout_amount": 36628,
+        "population": 23391
+    },
+    {
+        "total_amount": 4272544,
+        "count": 280,
+        "full_info_count": 125,
+        "data": [
+            {
+                "year": 2015,
+                "count": 17,
+                "amount": 574854
+            },
+            {
+                "year": 2016,
+                "count": 28,
+                "amount": 847783
+            },
+            {
+                "year": 2017,
+                "count": 26,
+                "amount": 625704
+            },
+            {
+                "year": 2018,
+                "count": 22,
+                "amount": 693342
+            },
+            {
+                "year": 2019,
+                "count": 34,
+                "amount": 1530860
+            }
+        ],
+        "nhood": "Sunset/Parkside",
+        "amount_per_capita": 56.55,
+        "average_buyout_amount": 34180,
+        "population": 75554
+    },
+    {
+        "total_amount": 4222218,
+        "count": 156,
+        "full_info_count": 71,
+        "data": [
+            {
+                "year": 2015,
+                "count": 9,
+                "amount": 442900
+            },
+            {
+                "year": 2016,
+                "count": 15,
+                "amount": 716815
+            },
+            {
+                "year": 2017,
+                "count": 20,
+                "amount": 1252414
+            },
+            {
+                "year": 2018,
+                "count": 14,
+                "amount": 729449
+            },
+            {
+                "year": 2019,
+                "count": 14,
+                "amount": 1080640
+            }
+        ],
+        "nhood": "Noe Valley",
+        "amount_per_capita": 198.21,
+        "average_buyout_amount": 59468,
+        "population": 21302
+    },
+    {
+        "total_amount": 2867382,
+        "count": 180,
+        "full_info_count": 66,
+        "data": [
+            {
+                "year": 2015,
+                "count": 8,
+                "amount": 341674
+            },
+            {
+                "year": 2016,
+                "count": 16,
+                "amount": 686321
+            },
+            {
+                "year": 2017,
+                "count": 14,
+                "amount": 445384
+            },
+            {
+                "year": 2018,
+                "count": 16,
+                "amount": 659230
+            },
+            {
+                "year": 2019,
+                "count": 12,
+                "amount": 734773
+            }
+        ],
+        "nhood": "Haight Ashbury",
+        "amount_per_capita": 171.54,
+        "average_buyout_amount": 43445,
+        "population": 16716
+    },
+    {
+        "total_amount": 1098541,
+        "count": 103,
+        "full_info_count": 50,
+        "data": [
+            {
+                "year": 2015,
+                "count": 3,
+                "amount": 30102
+            },
+            {
+                "year": 2016,
+                "count": 7,
+                "amount": 144200
+            },
+            {
+                "year": 2017,
+                "count": 11,
+                "amount": 245540
+            },
+            {
+                "year": 2018,
+                "count": 14,
+                "amount": 255241
+            },
+            {
+                "year": 2019,
+                "count": 18,
+                "amount": 423458
+            }
+        ],
+        "nhood": "West of Twin Peaks",
+        "amount_per_capita": 30.85,
+        "average_buyout_amount": 21971,
+        "population": 35605
+    },
+    {
+        "total_amount": 723526,
+        "count": 87,
+        "full_info_count": 26,
+        "data": [
+            {
+                "year": 2015,
+                "count": 2,
+                "amount": 59000
+            },
+            {
+                "year": 2016,
+                "count": 4,
+                "amount": 66050
+            },
+            {
+                "year": 2017,
+                "count": 9,
+                "amount": 329176
+            },
+            {
+                "year": 2018,
+                "count": 6,
+                "amount": 142400
+            },
+            {
+                "year": 2019,
+                "count": 5,
+                "amount": 126900
+            }
+        ],
+        "nhood": "Oceanview/Merced/Ingleside",
+        "amount_per_capita": 28.6,
+        "average_buyout_amount": 27828,
+        "population": 25301
+    },
+    {
+        "total_amount": 2772341,
+        "count": 192,
+        "full_info_count": 52,
+        "data": [
+            {
+                "year": 2015,
+                "count": 2,
+                "amount": 40354
+            },
+            {
+                "year": 2016,
+                "count": 9,
+                "amount": 292500
+            },
+            {
+                "year": 2017,
+                "count": 9,
+                "amount": 597314
+            },
+            {
+                "year": 2018,
+                "count": 12,
+                "amount": 591720
+            },
+            {
+                "year": 2019,
+                "count": 20,
+                "amount": 1250453
+            }
+        ],
+        "nhood": "Russian Hill",
+        "amount_per_capita": 161.73,
+        "average_buyout_amount": 53314,
+        "population": 17142
+    },
+    {
+        "total_amount": 3853394,
+        "count": 201,
+        "full_info_count": 86,
+        "data": [
+            {
+                "year": 2015,
+                "count": 10,
+                "amount": 299958
+            },
+            {
+                "year": 2016,
+                "count": 16,
+                "amount": 660327
+            },
+            {
+                "year": 2017,
+                "count": 23,
+                "amount": 1067863
+            },
+            {
+                "year": 2018,
+                "count": 20,
+                "amount": 891746
+            },
+            {
+                "year": 2019,
+                "count": 18,
+                "amount": 933500
+            }
+        ],
+        "nhood": "Outer Richmond",
+        "amount_per_capita": 89.31,
+        "average_buyout_amount": 44807,
+        "population": 43148
+    },
+    {
+        "total_amount": 1589598,
+        "count": 87,
+        "full_info_count": 29,
+        "data": [
+            {
+                "year": 2015,
+                "count": 3,
+                "amount": 102422
+            },
+            {
+                "year": 2016,
+                "count": 8,
+                "amount": 259389
+            },
+            {
+                "year": 2017,
+                "count": 5,
+                "amount": 222902
+            },
+            {
+                "year": 2018,
+                "count": 3,
+                "amount": 168000
+            },
+            {
+                "year": 2019,
+                "count": 10,
+                "amount": 836885
+            }
+        ],
+        "nhood": "North Beach",
+        "amount_per_capita": 130.53,
+        "average_buyout_amount": 54814,
+        "population": 12178
+    },
+    {
+        "total_amount": 2833204,
+        "count": 192,
+        "full_info_count": 75,
+        "data": [
+            {
+                "year": 2015,
+                "count": 12,
+                "amount": 370931
+            },
+            {
+                "year": 2016,
+                "count": 17,
+                "amount": 630327
+            },
+            {
+                "year": 2017,
+                "count": 17,
+                "amount": 481233
+            },
+            {
+                "year": 2018,
+                "count": 13,
+                "amount": 671071
+            },
+            {
+                "year": 2019,
+                "count": 19,
+                "amount": 679642
+            }
+        ],
+        "nhood": "Pacific Heights",
+        "amount_per_capita": 124.66,
+        "average_buyout_amount": 37776,
+        "population": 22727
+    },
+    {
+        "total_amount": 4799023,
+        "count": 213,
+        "full_info_count": 87,
+        "data": [
+            {
+                "year": 2015,
+                "count": 18,
+                "amount": 756199
+            },
+            {
+                "year": 2016,
+                "count": 9,
+                "amount": 516308
+            },
+            {
+                "year": 2017,
+                "count": 23,
+                "amount": 1079591
+            },
+            {
+                "year": 2018,
+                "count": 20,
+                "amount": 1168175
+            },
+            {
+                "year": 2019,
+                "count": 18,
+                "amount": 1278751
+            }
+        ],
+        "nhood": "Castro/Upper Market",
+        "amount_per_capita": 242.53,
+        "average_buyout_amount": 55161,
+        "population": 19787
+    },
+    {
+        "total_amount": 1309889,
+        "count": 170,
+        "full_info_count": 40,
+        "data": [
+            {
+                "year": 2015,
+                "count": 7,
+                "amount": 157300
+            },
+            {
+                "year": 2016,
+                "count": 11,
+                "amount": 375323
+            },
+            {
+                "year": 2017,
+                "count": 5,
+                "amount": 173719
+            },
+            {
+                "year": 2018,
+                "count": 11,
+                "amount": 200152
+            },
+            {
+                "year": 2019,
+                "count": 9,
+                "amount": 403395
+            }
+        ],
+        "nhood": "Nob Hill",
+        "amount_per_capita": 50.97,
+        "average_buyout_amount": 32747,
+        "population": 25700
+    },
+    {
+        "total_amount": 1964518,
+        "count": 119,
+        "full_info_count": 51,
+        "data": [
+            {
+                "year": 2015,
+                "count": 6,
+                "amount": 162780
+            },
+            {
+                "year": 2016,
+                "count": 6,
+                "amount": 319780
+            },
+            {
+                "year": 2017,
+                "count": 9,
+                "amount": 233096
+            },
+            {
+                "year": 2018,
+                "count": 20,
+                "amount": 800900
+            },
+            {
+                "year": 2019,
+                "count": 11,
+                "amount": 447962
+            }
+        ],
+        "nhood": "Inner Sunset",
+        "amount_per_capita": 74.08,
+        "average_buyout_amount": 38520,
+        "population": 26519
+    },
+    {
+        "total_amount": 3374034,
+        "count": 106,
+        "full_info_count": 25,
+        "data": [
+            {
+                "year": 2015,
+                "count": 1,
+                "amount": 25000
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 2,
+                "amount": 71000
+            },
+            {
+                "year": 2018,
+                "count": 19,
+                "amount": 3227500
+            },
+            {
+                "year": 2019,
+                "count": 3,
+                "amount": 50534
+            }
+        ],
+        "nhood": "Tenderloin",
+        "amount_per_capita": 106.89,
+        "average_buyout_amount": 134961,
+        "population": 31565
+    },
+    {
+        "total_amount": 839615,
+        "count": 103,
+        "full_info_count": 30,
+        "data": [
+            {
+                "year": 2015,
+                "count": 2,
+                "amount": 14906
+            },
+            {
+                "year": 2016,
+                "count": 6,
+                "amount": 201455
+            },
+            {
+                "year": 2017,
+                "count": 10,
+                "amount": 288896
+            },
+            {
+                "year": 2018,
+                "count": 9,
+                "amount": 209358
+            },
+            {
+                "year": 2019,
+                "count": 4,
+                "amount": 125000
+            }
+        ],
+        "nhood": "Bayview Hunters Point",
+        "amount_per_capita": 23.39,
+        "average_buyout_amount": 27987,
+        "population": 35894
+    },
+    {
+        "total_amount": 1220632,
+        "count": 71,
+        "full_info_count": 34,
+        "data": [
+            {
+                "year": 2015,
+                "count": 9,
+                "amount": 320086
+            },
+            {
+                "year": 2016,
+                "count": 10,
+                "amount": 297859
+            },
+            {
+                "year": 2017,
+                "count": 6,
+                "amount": 234846
+            },
+            {
+                "year": 2018,
+                "count": 5,
+                "amount": 214672
+            },
+            {
+                "year": 2019,
+                "count": 6,
+                "amount": 153168
+            }
+        ],
+        "nhood": "Western Addition",
+        "amount_per_capita": 57.49,
+        "average_buyout_amount": 35901,
+        "population": 21233
+    },
+    {
+        "total_amount": 2753961,
+        "count": 212,
+        "full_info_count": 66,
+        "data": [
+            {
+                "year": 2015,
+                "count": 5,
+                "amount": 82000
+            },
+            {
+                "year": 2016,
+                "count": 17,
+                "amount": 534240
+            },
+            {
+                "year": 2017,
+                "count": 16,
+                "amount": 864368
+            },
+            {
+                "year": 2018,
+                "count": 8,
+                "amount": 368710
+            },
+            {
+                "year": 2019,
+                "count": 20,
+                "amount": 904644
+            }
+        ],
+        "nhood": "Hayes Valley",
+        "amount_per_capita": 161.11,
+        "average_buyout_amount": 41727,
+        "population": 17094
+    },
+    {
+        "total_amount": 1527546,
+        "count": 67,
+        "full_info_count": 32,
+        "data": [
+            {
+                "year": 2015,
+                "count": 1,
+                "amount": 25874
+            },
+            {
+                "year": 2016,
+                "count": 5,
+                "amount": 232166
+            },
+            {
+                "year": 2017,
+                "count": 3,
+                "amount": 95000
+            },
+            {
+                "year": 2018,
+                "count": 8,
+                "amount": 244300
+            },
+            {
+                "year": 2019,
+                "count": 15,
+                "amount": 930206
+            }
+        ],
+        "nhood": "Presidio Heights",
+        "amount_per_capita": 155.03,
+        "average_buyout_amount": 47736,
+        "population": 9853
+    },
+    {
+        "total_amount": 457528,
+        "count": 59,
+        "full_info_count": 16,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 10,
+                "amount": 241700
+            },
+            {
+                "year": 2017,
+                "count": 2,
+                "amount": 25475
+            },
+            {
+                "year": 2018,
+                "count": 2,
+                "amount": 115000
+            },
+            {
+                "year": 2019,
+                "count": 2,
+                "amount": 75353
+            }
+        ],
+        "nhood": "South of Market",
+        "amount_per_capita": 23.03,
+        "average_buyout_amount": 28596,
+        "population": 19866
+    },
+    {
+        "total_amount": 1661666,
+        "count": 123,
+        "full_info_count": 31,
+        "data": [
+            {
+                "year": 2015,
+                "count": 3,
+                "amount": 27000
+            },
+            {
+                "year": 2016,
+                "count": 10,
+                "amount": 528970
+            },
+            {
+                "year": 2017,
+                "count": 7,
+                "amount": 499693
+            },
+            {
+                "year": 2018,
+                "count": 7,
+                "amount": 521957
+            },
+            {
+                "year": 2019,
+                "count": 5,
+                "amount": 84047
+            }
+        ],
+        "nhood": "Lone Mountain/USF",
+        "amount_per_capita": 106.22,
+        "average_buyout_amount": 53602,
+        "population": 15643
+    },
+    {
+        "total_amount": 602078,
+        "count": 30,
+        "full_info_count": 15,
+        "data": [
+            {
+                "year": 2015,
+                "count": 4,
+                "amount": 176119
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 4,
+                "amount": 107259
+            },
+            {
+                "year": 2018,
+                "count": 5,
+                "amount": 236500
+            },
+            {
+                "year": 2019,
+                "count": 2,
+                "amount": 82200
+            }
+        ],
+        "nhood": "Glen Park",
+        "amount_per_capita": 77.31,
+        "average_buyout_amount": 40139,
+        "population": 7788
+    },
+    {
+        "total_amount": 548231,
+        "count": 25,
+        "full_info_count": 12,
+        "data": [
+            {
+                "year": 2015,
+                "count": 3,
+                "amount": 75000
+            },
+            {
+                "year": 2016,
+                "count": 1,
+                "amount": 28000
+            },
+            {
+                "year": 2017,
+                "count": 2,
+                "amount": 305000
+            },
+            {
+                "year": 2018,
+                "count": 5,
+                "amount": 116963
+            },
+            {
+                "year": 2019,
+                "count": 1,
+                "amount": 23268
+            }
+        ],
+        "nhood": "Chinatown",
+        "amount_per_capita": 37.7,
+        "average_buyout_amount": 45686,
+        "population": 14542
+    },
+    {
+        "total_amount": 14200,
+        "count": 2,
+        "full_info_count": 1,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 1,
+                "amount": 14200
+            },
+            {
+                "year": 2019,
+                "count": 1,
+                "amount": 0
+            }
+        ],
+        "nhood": "Lakeshore",
+        "amount_per_capita": 1.12,
+        "average_buyout_amount": 14200,
+        "population": 12665
+    },
+    {
+        "total_amount": 487283,
+        "count": 24,
+        "full_info_count": 12,
+        "data": [
+            {
+                "year": 2015,
+                "count": 1,
+                "amount": 10000
+            },
+            {
+                "year": 2016,
+                "count": 3,
+                "amount": 153283
+            },
+            {
+                "year": 2017,
+                "count": 2,
+                "amount": 83500
+            },
+            {
+                "year": 2018,
+                "count": 3,
+                "amount": 90000
+            },
+            {
+                "year": 2019,
+                "count": 3,
+                "amount": 150500
+            }
+        ],
+        "nhood": "Twin Peaks",
+        "amount_per_capita": 69.19,
+        "average_buyout_amount": 40607,
+        "population": 7043
+    },
+    {
+        "total_amount": 401659,
+        "count": 42,
+        "full_info_count": 17,
+        "data": [
+            {
+                "year": 2015,
+                "count": 4,
+                "amount": 87611
+            },
+            {
+                "year": 2016,
+                "count": 7,
+                "amount": 195998
+            },
+            {
+                "year": 2017,
+                "count": 1,
+                "amount": 29050
+            },
+            {
+                "year": 2018,
+                "count": 4,
+                "amount": 75000
+            },
+            {
+                "year": 2019,
+                "count": 1,
+                "amount": 14000
+            }
+        ],
+        "nhood": "Visitacion Valley",
+        "amount_per_capita": 21.87,
+        "average_buyout_amount": 23627,
+        "population": 18369
+    },
+    {
+        "total_amount": 120569,
+        "count": 9,
+        "full_info_count": 4,
+        "data": [
+            {
+                "year": 2015,
+                "count": 2,
+                "amount": 98069
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2019,
+                "count": 2,
+                "amount": 22500
+            }
+        ],
+        "nhood": "Seacliff",
+        "amount_per_capita": 50.74,
+        "average_buyout_amount": 30142,
+        "population": 2376
+    },
+    {
+        "total_amount": 1009875,
+        "count": 86,
+        "full_info_count": 31,
+        "data": [
+            {
+                "year": 2015,
+                "count": 1,
+                "amount": 28000
+            },
+            {
+                "year": 2016,
+                "count": 10,
+                "amount": 311134
+            },
+            {
+                "year": 2017,
+                "count": 7,
+                "amount": 293739
+            },
+            {
+                "year": 2018,
+                "count": 12,
+                "amount": 352375
+            },
+            {
+                "year": 2019,
+                "count": 2,
+                "amount": 24627
+            }
+        ],
+        "nhood": "Potrero Hill",
+        "amount_per_capita": 83.38,
+        "average_buyout_amount": 32577,
+        "population": 12111
+    },
+    {
+        "total_amount": 41800,
+        "count": 2,
+        "full_info_count": 2,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 1,
+                "amount": 6800
+            },
+            {
+                "year": 2018,
+                "count": 1,
+                "amount": 35000
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "McLaren Park",
+        "amount_per_capita": 52.45,
+        "average_buyout_amount": 20900,
+        "population": 797
+    },
+    {
+        "total_amount": 29800,
+        "count": 3,
+        "full_info_count": 1,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 1,
+                "amount": 29800
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Lincoln Park",
+        "amount_per_capita": 93.13,
+        "average_buyout_amount": 29800,
+        "population": 320
+    },
+    {
+        "total_amount": 138000,
+        "count": 8,
+        "full_info_count": 1,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 1,
+                "amount": 138000
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Financial District/South Beach",
+        "amount_per_capita": 8.64,
+        "average_buyout_amount": 138000,
+        "population": 15970
+    },
+    {
+        "total_amount": 128703,
+        "count": 8,
+        "full_info_count": 4,
+        "data": [
+            {
+                "year": 2015,
+                "count": 1,
+                "amount": 23500
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 3,
+                "amount": 105203
+            },
+            {
+                "year": 2018,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Japantown",
+        "amount_per_capita": 35.53,
+        "average_buyout_amount": 32176,
+        "population": 3622
+    },
+    {
+        "total_amount": 34000,
+        "count": 1,
+        "full_info_count": 1,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 1,
+                "amount": 34000
+            },
+            {
+                "year": 2018,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Presidio",
+        "amount_per_capita": 10.51,
+        "average_buyout_amount": 34000,
+        "population": 3235
+    },
+    {
+        "total_amount": 0,
+        "count": 0,
+        "full_info_count": 0,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Golden Gate Park",
+        "amount_per_capita": 0,
+        "average_buyout_amount": 0,
+        "population": 171
+    },
+    {
+        "total_amount": 0,
+        "count": 0,
+        "full_info_count": 0,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Mission Bay",
+        "amount_per_capita": 0,
+        "average_buyout_amount": 0,
+        "population": 9083
+    },
+    {
+        "total_amount": 0,
+        "count": 0,
+        "full_info_count": 0,
+        "data": [
+            {
+                "year": 2015,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2016,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2017,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2018,
+                "count": 0,
+                "amount": 0
+            },
+            {
+                "year": 2019,
+                "count": 0,
+                "amount": 0
+            }
+        ],
+        "nhood": "Treasure Island",
+        "amount_per_capita": 0,
+        "average_buyout_amount": 0,
+        "population": 2880
+    }
+]

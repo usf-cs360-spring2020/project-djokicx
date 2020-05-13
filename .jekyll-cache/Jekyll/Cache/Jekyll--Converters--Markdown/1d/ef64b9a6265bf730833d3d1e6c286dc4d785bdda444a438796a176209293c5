@@ -1,61 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Data – Dejan Djokic – Developer from Somewhere</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="Overview
-" />
-    <meta property="og:description" content="Overview
-" />
-    
-    <meta name="author" content="Dejan Djokic" />
-
-    
-    <meta property="og:title" content="Data" />
-    <meta property="twitter:title" content="Data" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/project-djokicx/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Dejan Djokic - Developer from Somewhere" href="/project-djokicx/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/project-djokicx/" class="site-avatar"><img src="https://www.greeksymbols.net/img/delta-symbol-capital.png" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/project-djokicx/">Dejan Djokic</a></h1>
-            <p class="site-description">Developer from Somewhere</p>
-          </div>
-
-          <nav>
-            <a href="/project-djokicx/">Project</a>
-            <a href="/project-djokicx/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="post">
-  <h1>Data</h1>
-
-  <div class="entry">
-    <h2 id="overview">Overview</h2>
+I"�<h2 id="overview">Overview</h2>
 
 <p>The following datasets were used to calculate the population of each San Francisco neighborhood:</p>
 
@@ -131,35 +74,4 @@ Rows: <strong>197</strong><br />
 Columns: <strong>11</strong><br />
 License:  Creative Commons Attribution license<br />
 Accessed: <em>April 13, 2020</em><br /></p>
-
-  </div>
-
-
-</article>
-
-    </div>
-
-    <!-- <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-
-
-
-<a href="https://github.com/barryclark/jekyll-now"><i class="svg-icon github"></i></a>
-
-
-
-
-<a href="https://www.twitter.com/jekyllrb"><i class="svg-icon twitter"></i></a>
-
-
-
-        </footer>
-      </div>
-    </div> -->
-
-    <!-- 
- -->
-  </body>
-</html>
+:ET
