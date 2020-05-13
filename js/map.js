@@ -77,12 +77,12 @@ function ready(data) {
 }
 
 var zoom = d3.zoom()
-    .scaleExtent([1, 1.5])
+    .scaleExtent([1, 5])
     .on('zoom', () => {
         all_paths_sel
             .attr('transform', d3.event.transform);
-        all_outline_sel
-            .attr('transform', d3.event.transform);
+        // all_outline_sel
+        //     .attr('transform', d3.event.transform);
         all_symbols_sel
             .attr('transform', d3.event.transform)
             .attr('stroke-width', 1 / d3.event.transform.k)
@@ -111,17 +111,17 @@ function drawBasemap(json) {
         .attr("d", path)
         .attr("class", "land");
 
-    const outline = g.outline.selectAll("path.neighborhood")
-        .data(json.features)
-        .enter()
-        .append("path")
-        .attr("d", path)
-        .attr("class", "neighborhood")
-        .each(function(d) {
-        // save selection in data for interactivity
-        // saves search time finding the right outline later
-        d.properties.outline = this;
-      });
+    // const outline = g.outline.selectAll("path.neighborhood")
+    //     .data(json.features)
+    //     .enter()
+    //     .append("path")
+    //     .attr("d", path)
+    //     .attr("class", "neighborhood")
+    //     .each(function(d) {
+    //     // save selection in data for interactivity
+    //     // saves search time finding the right outline later
+    //     d.properties.outline = this;
+    //   });
 
 
       all_paths_sel = basemap;
@@ -170,8 +170,8 @@ function drawBasemap(json) {
         .transition()
         .style("visibility", "visible");
     
-    d3.select(d.properties.outline).raise();
-    d3.select(d.properties.outline).classed("active", true);
+    // d3.select(d.properties.outline).raise();
+    // d3.select(d.properties.outline).classed("active", true);
     displayLine(d.properties.nhood)
   })
   .on("mouseout.highlight", function(d) {
